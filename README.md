@@ -1,8 +1,11 @@
-# Parkinsons – ML App (Pro, v7)
+# 🧪 Parkinsons – ML App (Pro)
 
-טאבים: **Data & EDA**, **Single Model**, **Multi Compare**, **Best Dashboard**, **Predict**, **Retrain**.
+<img src="assets/banner.png" width="100%" alt="Parkinsons – ML App banner">
 
-## הפעלה
+אפליקציית Streamlit מלאה עם טאבים: **Data & EDA**, **Single**, **Multi**, **Best**, **Predict**, **Retrain**.
+כולל ייצוא CSV, גרפים, וכיול מודלים.
+
+להרצה:
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py

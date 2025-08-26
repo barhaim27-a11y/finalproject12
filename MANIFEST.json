@@ -1,0 +1,11 @@
+{
+  "README.md": "/mnt/data/readme_pack_v2/README.md",
+  "requirements.txt": "/mnt/data/readme_pack_v2/requirements.txt",
+  "assets": [
+    "/mnt/data/readme_pack_v2/assets/banner.png",
+    "/mnt/data/readme_pack_v2/assets/eda_class_balance.png",
+    "/mnt/data/readme_pack_v2/assets/eda_corr_heatmap.png",
+    "/mnt/data/readme_pack_v2/assets/models_leaderboard.png",
+    "/mnt/data/readme_pack_v2/assets/roc_example.png"
+  ]
+}
