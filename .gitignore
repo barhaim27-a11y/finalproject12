@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+assets/*.png
+assets/*.csv
+assets/runs.csv
+models/*.joblib
+data/_uploaded_*.csv

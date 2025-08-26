@@ -1,0 +1,6 @@
+{
+  "model_path": "models/parkinsons_production.joblib",
+  "model_name": "LogisticRegression (baseline)",
+  "roc_auc": 0.4126984126984127,
+  "note": "Baseline included with project."
+}
